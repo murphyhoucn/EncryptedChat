@@ -1,5 +1,6 @@
 # EncryptedChat
-Description：Tencent QQ chat encryption
+
+描述： 腾讯QQ聊天消息加密
 
 [murphyhoucn/EncryptedChat](https://github.com/murphyhoucn/EncryptedChat)
 
