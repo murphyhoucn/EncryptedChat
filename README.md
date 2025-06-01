@@ -4,7 +4,7 @@
 
 [murphyhoucn/EncryptedChat](https://github.com/murphyhoucn/EncryptedChat)
 
-[博客地址：QQ聊天框消息加密](https://cosmicdusty.cc/post/QQ%E8%81%8A%E5%A4%A9%E6%A1%86%E6%B6%88%E6%81%AF%E5%8A%A0%E5%AF%86)
+[博客地址：QQ聊天框消息加密](https://blog.cosmicdusty.cc/post/Ideas/ChatEncryption/)
 
 [视频演示："加密对话"EncryptedChat](https://www.bilibili.com/video/BV1KT4y1S7kF?spm_id_from=333.999.0.0)
 
@@ -59,6 +59,3 @@ pyinstaller -F- w -i ICON.ico Encrypt.py
 1. 在GitHub仓库中提出一个Issues
 2. 通过邮件联系到我：[Murphy](mailto:Murphy0928Hou@outlook.com)
 3. 在博文最下面的评论区留下您的问题/想法
-
-
-
